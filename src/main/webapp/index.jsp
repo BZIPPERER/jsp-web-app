@@ -48,6 +48,10 @@ FB One
     {
        margin:15px;
     }
+    .thumbnail
+    {
+    	width:60px;
+    }
 /* next step is for someone else */
 </style>
 </head>
@@ -73,32 +77,30 @@ FB One
 	
 	 <div class="container">
         <div class="row">
-            <div class="col-lg-6 mb-4">
+            <div class="col-lg-4 mb-4">
                 <div class="card">
-                    <img class="card-img-top" src="" alt="">
+                    <img class="card-img-top thumbnail" src="./goodbadugly.jpg" alt="pic a">
   
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">The characters in the play</h5>
                         <p class="card-text">
-                            Some quick example text to build on 
-                            the card title and make up the bulk 
-                            of the card's content.
+                            Discover everything that makes the people
                         </p>
   
                         <a href="#" class="btn btn-outline-primary btn-sm">
-                            Card link
+                            Full story
                         </a>
-                        <a href="#" class="btn btn-outline-secondary btn-sm">
+                        <a href="#" class="btn btn-outline-primary btn-sm">
                             <i class="far fa-heart"></i></a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 mb-4">
+            <div class="col-lg-4 mb-4">
                 <div class="card">
-                    <img class="card-img-top" src="" alt="">
+                    <img class="card-img-top thumbnail" src="./goodbadugly.jpg" alt="pic b" >
   
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
+                        <h5 class="card-title">About Samuel Beckett</h5>
                         <p class="card-text">
                             Some quick example text to build on the 
                             card title and make up the bulk of the 
@@ -106,13 +108,36 @@ FB One
                         </p>
                           
                         <a href="#" class="btn btn-outline-primary btn-sm">
-                            Card link
+                            Full story
                         </a>
                         <a href="#" class="btn btn-outline-secondary btn-sm">
                             <i class="far fa-heart"></i></a>
                     </div>
                 </div>
             </div>
+            
+            <!--Analyzing section over-->
+             <div class="col-lg-4 mb-4">
+                <div class="card">
+                    <img class="card-img-top thumbnail" src="./goodbadugly.jpg" alt="pic b" >
+  
+                    <div class="card-body">
+                        <h5 class="card-title">About Samuel Beckett</h5>
+                        <p class="card-text">
+                            Some quick example text to build on the 
+                            card title and make up the bulk of the 
+                            card's content.
+                        </p>
+                          
+                        <a href="#" class="btn btn-outline-primary btn-sm">
+                            Full story
+                        </a>
+                        <a href="#" class="btn btn-outline-secondary btn-sm">
+                            <i class="far fa-heart"></i></a>
+                    </div>
+                </div>
+            </div>
+            
         </div>
     </div>
   
