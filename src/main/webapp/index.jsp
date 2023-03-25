@@ -50,19 +50,20 @@ FB One
 		<h1 align="center" class="text-success">American theatre: Waiting for Godot</h1>
 			<hr>
 			<div>
-				<img id="one" src="./goodbadugly.jpg"> <p>What is it about? I think its pain!</p>
+				<img id="one" src="./goodbadugly.jpg"> <p><b>How long ...?!</b></p>
 				<br>
 				<p>
-				is a play by Samuel Beckett in which two characters, Vladimir (Didi) 
-				and Estragon (Gogo), engage in a variety of discussions and encounters 
-				while awaiting the titular Godot, who never arrives
+				<i>About the play itself:</i>&nbsp;
+				It is a play written by Samuel Beckett <br>in which two characters, Vladimir 
+				and Estragon, engage in a variety of discussions and encounters <br>
+				while awaiting a person named Godot, who never arrives.
 				</p>
 			</div>
 	</div>
 	<hr>
 	<div class="card-columns">
   <div class="card">
-    <img class="card-img-top" data-src="..." alt="Card image cap">
+    <img class="card-img-top" data-src="..." alt="A">
     <div class="card-block">
       <h4 class="card-title">Card title that wraps to a new line</h4>
       <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -70,7 +71,7 @@ FB One
   </div>
   <div class="card card-block">
     <blockquote class="card-blockquote">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <p>Integer posuere erat a ante.</p>
       <footer>
         <small class="text-muted">
           Someone famous in <cite title="Source Title">Source Title</cite>
@@ -79,7 +80,7 @@ FB One
     </blockquote>
   </div>
   <div class="card">
-    <img class="card-img-top" data-src="..." alt="Card image cap">
+    <img class="card-img-top" data-src="..." alt="B">
     <div class="card-block">
       <h4 class="card-title">Card title</h4>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
