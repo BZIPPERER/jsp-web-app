@@ -57,7 +57,7 @@ FB One
 </head>
 <body>
 	<div class="container text-center">
-		<h1 align="center" class="text-success">American theatre: Waiting for Godot</h1>
+		<h1 align="center" style="margin-top:45px" class="text-success">American theatre: Waiting for Godot</h1>
 			<hr>
 			<div>
 				<img id="one" src="./goodbadugly.jpg"> <p><b>How long ...?!</b></p>
@@ -90,8 +90,9 @@ FB One
                         <a href="#" class="btn btn-outline-primary btn-sm">
                             Full story
                         </a>
-                        <a href="#" class="btn btn-outline-primary btn-sm">
-                            <i class="far fa-heart"></i></a>
+                        <a href="#" class="btn btn-outline-secondary btn-sm">
+                            <i class="far fa-heart">Quiz: Do you know who they are?</i>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -102,16 +103,16 @@ FB One
                     <div class="card-body">
                         <h5 class="card-title">About Samuel Beckett</h5>
                         <p class="card-text">
-                            Some quick example text to build on the 
-                            card title and make up the bulk of the 
-                            card's content.
+                            A style on its own.
                         </p>
                           
                         <a href="#" class="btn btn-outline-primary btn-sm">
                             Full story
                         </a>
                         <a href="#" class="btn btn-outline-secondary btn-sm">
-                            <i class="far fa-heart"></i></a>
+                            <i class="far fa-heart">
+                            Context History
+                            </i></a>
                     </div>
                 </div>
             </div>
@@ -122,18 +123,20 @@ FB One
                     <img class="card-img-top thumbnail" src="./goodbadugly.jpg" alt="pic b" >
   
                     <div class="card-body">
-                        <h5 class="card-title">About Samuel Beckett</h5>
+                        <h5 class="card-title">Adaption of the play</h5>
                         <p class="card-text">
-                            Some quick example text to build on the 
-                            card title and make up the bulk of the 
-                            card's content.
+                            Beckett's play was adopted furiously during his lifetime.<br>
+                            unfortunately he could not make up with another success like this<br>
+                            and quickly disappeared from the spotlight of critics.
                         </p>
                           
                         <a href="#" class="btn btn-outline-primary btn-sm">
                             Full story
                         </a>
                         <a href="#" class="btn btn-outline-secondary btn-sm">
-                            <i class="far fa-heart"></i></a>
+                            <i class="far fa-heart">
+                            Search online
+                            </i></a>
                     </div>
                 </div>
             </div>
